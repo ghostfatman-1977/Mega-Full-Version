@@ -238,3 +238,6 @@ This repository serves as the official landing page for MEGA Privacy. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MEGA Privacy today!**
+
+---
+**Last updated:** 2026-09-10 11:57:04 UTC
