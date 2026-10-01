@@ -240,4 +240,4 @@ This repository serves as the official landing page for MEGA Privacy. The softwa
 **Get the most recent version of MEGA Privacy today!**
 
 ---
-**Last updated:** 2026-09-30 22:42:14 UTC
+**Last updated:** 2026-10-01 01:39:50 UTC
